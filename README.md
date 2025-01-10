@@ -63,7 +63,7 @@
 
 ###
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="right" height="330" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<img align="left" height="250" src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY1MTcyOTEsIm5iZiI6MTczNjUxNjk5MSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEwVDEzNDk1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZGQxOWJiYjJlZGNlZDhmZmUzZDU2MjEwNWRiMTdhYTBmYmQzZGY3ZDJjZDAxYzM2NjFiYTVlMGY2OTMwZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.M5j9Eygpgsra0-3t7-WWSBeR3-CUQTrGX-gh7nXXiwg"  />
+<img align="left" height="250" src="https://media.tenor.com/no5GVLhytVUAAAAM/work-hardwork.gif"  />
 
 ###
 
