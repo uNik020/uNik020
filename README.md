@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">About me:<br>👋 Hi there! I'm a passionate developer diving deep into web and software development. I enjoy building responsive and dynamic projects using various tech stacks like MERN ,MEAN, Java springboot etc. , with a knack for integrating backend systems and exploring various technologies.<br><br>🌟 Currently working on:<br><br>InOutly: Visitor management system<br>Personal Portfolio website using React.<br><br>🚀 Always eager to learn and create efficient, scalable solutions.</p>
+<p align="left">About me:<br>👋 Hi there! I'm a passionate developer diving deep into web and software development. I enjoy building responsive and dynamic projects using various tech stacks like MERN ,MEAN, Java springboot etc. , with a knack for integrating backend systems and exploring various technologies.<br><br>🌟 Currently working on:<br><br>ERPNext custom apps<br>SAP B1 and Some mobile apps.<br><br>🚀 Always eager to learn and create efficient, scalable solutions.</p>
 
 ###
 
